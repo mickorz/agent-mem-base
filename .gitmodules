@@ -1,0 +1,4 @@
+[submodule "thirdparties/agentmemory"]
+	path = thirdparties/agentmemory
+	url = https://github.com/rohitg00/agentmemory.git
+	branch = main
